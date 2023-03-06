@@ -1,0 +1,32 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+html, body {
+   /* background-color: #21232A; */
+   color: #000;
+   font-family: Helvetica, Arial, sans-serif;
+   font-size: 1.3rem;
+}
+
+#root {
+   padding: 2rem 1rem;
+}
+
+
+
+/* .buttons {
+   display: flex;
+   gap: 0.5rem;
+}
+
+button {
+   color: #ffff;
+   background: #00a5f2;
+   padding: 0.2rem 0.5rem;
+   font-size: 25px;
+   border-radius: 10px;
+   border: none;
+} */
